@@ -134,11 +134,11 @@ jackpot-service/
 
 ## 8. Running tests
 
+*Unit & integration stubs (JUnit 5, Kafka test containers).*
 ```bash
 mvn test
 ```
 
-*Unit & integration stubs (JUnit 5, Kafka test containers).*
 ---
 
 ## 9. Known limitations / Next steps
